@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1623472521 source:c:\users\minh\documents\codeblock\quanlychitieu\main.c
+1623514692 source:c:\users\minh\documents\codeblock\quanlychitieu\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<windows.h>
+	<stdbool.h>
 
